@@ -6,4 +6,4 @@ Shanmin Wang "[Diverse Multimodal Representation Learning with Enhanced Cross-Mo
 
 ## Overview
 
-The code is coming soon
+The code is released
